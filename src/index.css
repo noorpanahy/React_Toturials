@@ -285,7 +285,7 @@ input[type="color"]{
   border: none;
   border-radius: 10px;
   cursor: pointer;
-  color: white;
+  color: blue;
   transition: background-color 0.5s ease;
 }
 .start-button{
